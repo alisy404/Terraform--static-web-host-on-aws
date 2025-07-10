@@ -20,7 +20,6 @@ proj1-static-web-host/
 ├── build/               # Static website files
 │   ├── index.html       # Main page
 │   └── error.html       # Error page
-├── .terraform.lock.hcl  # Terraform dependency lock file
 └── README.md            # This file
 ```
 
